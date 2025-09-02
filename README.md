@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi, I'm Krrish Joshi 👋
 
-<!--
-**krrish-joshi/krrish-joshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 CSE Student | Aspiring AI/ML Engineer | UI/UX Designer
+🎨 Designing intuitive experiences with Figma
+💻 Building sleek frontends & exploring AI-powered applications
 
-Here are some ideas to get you started:
+🚧 What I'm Building & Exploring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Advanced AI/ML concepts
+
+🗄️ Database Management with SQL
+
+🌳 Strengthening DSA (Trees, Graphs & beyond)
+
+⚡ Leveling up in Java & backend integration
+
+⚡ My Toolkit
+
+Languages
+Python 
+
+
+📊 GitHub Stats
+
+
+
+
+🌍 Find Me Around
+
+📫 Email: joshikrrish445@gmail.com
+
+💼 LinkedIn: linkedin.com/in/krrish-joshi-bab294261
+
+⚡ “Turning ideas into reality through code, creativity, and curiosity.” ✨
