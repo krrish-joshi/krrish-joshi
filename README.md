@@ -1,34 +1,36 @@
-Hi, I'm Krrish Joshi 👋
+# Hi, I'm **Krrish Joshi** 👋  
 
-🚀 CSE Student | Aspiring AI/ML Engineer | UI/UX Designer
-🎨 Designing intuitive experiences with Figma
-💻 Building sleek frontends & exploring AI-powered applications
+🚀 *CSE Student | Aspiring AI/ML Engineer | UI/UX Designer*  
+🎨 Designing intuitive experiences with **Figma**  
+💻 Building sleek frontends & exploring **AI-powered applications**  
 
-🚧 What I'm Building & Exploring
+---
 
-🤖 Advanced AI/ML concepts
+## 🚧 What I'm Building & Exploring  
+- 🤖 **Advanced AI/ML concepts**  
+- 🗄️ **Database Management with SQL**  
+- 🌳 **Strengthening DSA (Trees, Graphs & beyond)**  
+- ⚡ **Leveling up in Java & backend integration**  
 
-🗄️ Database Management with SQL
+---
 
-🌳 Strengthening DSA (Trees, Graphs & beyond)
+## ⚡ My Toolkit  
 
-⚡ Leveling up in Java & backend integration
+### 🖥️ **Languages**  
+`Python` 
 
-⚡ My Toolkit
+---
 
-Languages
-Python 
-
-
+## 📊 GitHub Stats  
 ![Krrish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krrish-joshi&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krrish-joshi&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krrish-joshi&layout=compact&theme=radical)  
 
+---
 
+## 🌍 Find Me Around  
+📫 **Email**: [joshikrrish445@gmail.com](mailto:joshikrrish445@gmail.com)  
+💼 **LinkedIn**: [linkedin.com/in/krrish-joshi-bab294261](https://www.linkedin.com/in/krrish-joshi-bab294261/)  
 
-🌍 Find Me Around
+---
 
-📫 Email: joshikrrish445@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/krrish-joshi-bab294261
-
-⚡ “Turning ideas into reality through code, creativity, and curiosity.” ✨
+⚡ *“Turning ideas into reality through code, creativity, and curiosity.”* ✨  
