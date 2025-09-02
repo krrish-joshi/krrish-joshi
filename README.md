@@ -20,8 +20,8 @@ Languages
 Python 
 
 
-📊 GitHub Stats
-
+![Krrish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krrish-joshi&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krrish-joshi&layout=compact&theme=radical)
 
 
 
