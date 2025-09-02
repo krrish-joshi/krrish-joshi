@@ -1,23 +1,43 @@
 # Hi, I'm **Krrish Joshi** 👋  
 
-🚀 *CSE Student | Aspiring AI/ML Engineer | UI/UX Designer*  
-🎨 Designing intuitive experiences with **Figma**  
-💻 Building sleek frontends & exploring **AI-powered applications**  
+🚀 *CSE Student | Aspiring AI/ML Engineer*  
+🤖 Exploring **Large Language Models (LLMs)** and **RAG-powered applications**  
+💻 Turning ideas into real AI projects with **LangChain, Streamlit, and FAISS**  
 
 ---
 
-## 🚧 What I'm Building & Exploring  
-- 🤖 **Advanced AI/ML concepts**  
-- 🗄️ **Database Management with SQL**  
-- 🌳 **Strengthening DSA (Trees, Graphs & beyond)**  
-- ⚡ **Leveling up in Java & backend integration**  
+## 👨‍💻 About Me  
+- 🎓 I’m currently pursuing **Computer Science Engineering (AI/ML)**  
+- 🧠 Passionate about **Artificial Intelligence & Machine Learning**  
+- 📚 Always learning through projects and self-study  
+- 🚀 Goal: Become a **Full-Stack AI Developer** and work on impactful AI solutions  
 
 ---
 
-## ⚡ My Toolkit  
+## ⚡ Skills & Interests  
 
-### 🖥️ **Languages**  
-`Python` 
+### 🖥️ **Programming**  
+`Python`  
+
+### 🤖 **AI / ML Libraries & Tools**  
+`LangChain` | `OpenAI API` | `FAISS` | `NumPy` | `Scikit-learn`  
+
+### 🌱 **Currently Learning**  
+- Advanced **RAG techniques**  
+- Vector databases & embeddings  
+- Fine-tuning and deploying **LLMs**  
+
+---
+
+## 🚧 Featured Projects  
+
+### 📌 [PDF-Bot](https://github.com/krrish-joshi/pdf-bot)  
+🔹 An AI-powered PDF Q&A assistant built with **LangChain, FAISS, and Streamlit**.  
+- 📖 Upload a PDF → ask questions → get instant answers  
+- ⚡ Uses **LLMs + RAG** to retrieve accurate content  
+- 🎯 Goal: Make study & research faster and interactive  
+
+*(More projects coming soon...)*  
 
 ---
 
@@ -27,10 +47,11 @@
 
 ---
 
-## 🌍 Find Me Around  
+## 🌍 Connect With Me  
+
 📫 **Email**: [joshikrrish445@gmail.com](mailto:joshikrrish445@gmail.com)  
 💼 **LinkedIn**: [linkedin.com/in/krrish-joshi-bab294261](https://www.linkedin.com/in/krrish-joshi-bab294261/)  
 
 ---
 
-⚡ *“Turning ideas into reality through code, creativity, and curiosity.”* ✨  
+⚡ *“Building the future of AI, one project at a time.”* ✨  
