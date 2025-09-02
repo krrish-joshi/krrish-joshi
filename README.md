@@ -29,6 +29,6 @@ Python
 
 📫 Email: joshikrrish445@gmail.com
 
-💼 LinkedIn: linkedin.com/in/krrish-joshi-bab294261
+💼 LinkedIn: linkedin.com/in/krrish-joshi
 
 ⚡ “Turning ideas into reality through code, creativity, and curiosity.” ✨
